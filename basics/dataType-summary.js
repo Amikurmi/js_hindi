@@ -28,4 +28,4 @@ const myFunction = function(){
     console.log("Hello World");
 }
 
-console.log(typeof BigInt); // for check the datatype
+//console.log(typeof BigInt); // for check the datatype
