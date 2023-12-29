@@ -29,3 +29,27 @@ const myFunction = function(){
 }
 
 //console.log(typeof BigInt); // for check the datatype
+
+
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++
+
+//  Stack (primitive data type)
+//  Heap (Non Primitive data type)
+
+let myYoutubename = "amitkumaryoutube"
+let anothername = myYoutubename
+anothername = "ak"
+console.log(myYoutubename);
+console.log(anothername);
+
+
+let userOne={
+    name:'amit',
+    age: 20
+}
+let userTwo=userOne
+
+userTwo.name='amit kumar'
+console.log(userOne);
+console.log(userTwo);
