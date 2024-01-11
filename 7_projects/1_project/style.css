@@ -1,0 +1,46 @@
+html{
+    margin: 0;
+}
+span{
+    display: block;
+}
+.canvas{
+    margin: 100px auto 100px;
+    width: 80%;
+    text-align: center;
+}
+.button{
+    width: 100px;
+    height: 100px;
+    border: solid black 2px;
+    display: inline-block;
+}
+#gray{
+    background-color: gray;
+    color: #212121;
+}
+#white{
+    background-color: white;
+    color: black;
+}
+#blue{
+    background-color: blue;
+    color: bisque;
+}
+#yellow{
+    background-color: yellow;
+    color: greenyellow;
+}
+nav{
+    width: 100%;
+    /* border: 1px solid black; */
+    height: 40px;
+    text-align: center;
+    background-color: rgb(196, 159, 159);
+    color: blue;
+}
+a{
+    margin: 25px;
+    font-size: large;
+}
+  
